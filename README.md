@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @treva556
-- 👀 I’m interested in ...learning to code 
-- 🌱 I’m currently learning ...python and c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Robotics, hacking, coding, electronics, hardware hacking passionate && more, sharing stuff
 
 <!---
 treva556/treva556 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
