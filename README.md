@@ -1,4 +1,4 @@
-- Robotics, hacking, coding, electronics, hardware hacking passionate && more, sharing stuff
+- web/mobile developer,cybersecurity & machine learning fanatic
 
 <!---
 treva556/treva556 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
