@@ -1,4 +1,5 @@
-- web/mobile developer,cybersecurity & machine learning fanatic
+- web/mobile developer 👨🏻‍💻
+- cybersecurity & machine learning fanatic  🤖
 
 <!---
 treva556/treva556 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
